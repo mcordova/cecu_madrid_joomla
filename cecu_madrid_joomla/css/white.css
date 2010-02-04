@@ -1,6 +1,6 @@
 /* white */
 a:link, a:visited {
-	color: #007040; /* antes 12 5c ae*/
+	color: #125cae; /* antes 12 5c ae*/
 }
 
 a:hover {
@@ -21,11 +21,11 @@ a:hover {
 }
 
 h3, div.module_menu h3, .componentheading, table.moduletable th {
-  color: #136040; /* antes 12 5c ae*/
+  color: #125cae; /* antes 12 5c ae*/
 }
 
 h3, .componentheading, table.moduletable th {
-  color: #136040; /* antes 12 5c ae*/[A]
+  color: #125cae; /* antes 12 5c ae*/
 }
 
 div.module_menu {
