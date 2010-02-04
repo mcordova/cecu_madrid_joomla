@@ -34,7 +34,7 @@ input.button { cursor: pointer; }
 
 p { margin-top: 0; margin-bottom: 5px; }
 
-img { border: 0 none; }
+img { border: 1px solid #cccccc; }
 
 /*****************************************/
 /*** Template specific layout elements ***/
@@ -603,7 +603,7 @@ table.user1user2 div.moduletable {
   margin-bottom: 0px;
 }
 
-div.moduletable, div.module {
+div.moduletable, div.module, div.moduletable_menu {
   margin-bottom: 25px;
 }
 
