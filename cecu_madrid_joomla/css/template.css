@@ -382,6 +382,7 @@ h2, .contentheading {
   color: #333;
   text-align: left;
   width: 100%;
+  line-height: 1.3em;
 }
 
 table.contentpaneopen h3 {
