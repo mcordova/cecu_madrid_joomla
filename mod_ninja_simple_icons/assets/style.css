@@ -6,7 +6,7 @@
 .nsi-container li {clear:left; float:left; margin:0; padding:10px 20px 0 0; text-align:center; cursor:pointer;}
 .nsi-container span {font-weight:bold;}
 .nsi-container img {border:none;}
-.nsi-container img { border-top:1px solid #666666; border-right:1px solid #666666;}
+.nsi-container img { border-bottom:1px solid #666666; border-right:1px solid #666666;}
 .nsi-container a:link,
 .nsi-container a:hover {height:100%; text-decoration:none;}    
 
