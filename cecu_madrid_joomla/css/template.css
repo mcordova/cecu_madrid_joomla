@@ -71,10 +71,10 @@ div#header_l {
 }
 
 div#header_r {
-  height: 140px; /*90px */
+  height: 149px; /*90px */
   padding-left: 160px; /* 370px; */
-  padding-right: 30px;
-  padding-top: 25px;
+  padding-right: 125px;
+  padding-top: 16px;
   overflow: hidden;
   text-align: left;
 }
@@ -85,10 +85,10 @@ div#logo {
   top: 0;
   float: left;
   width: 160px;
-  height: 140px;
+  height: 100px;
   background: url(../images/logo_cecu_madrid.png) 0 0 no-repeat;
   margin-left: 30px;
-  margin-top: 25px;
+  margin-top: 35px;
 }
 
 div#mapa_madrid {
@@ -98,9 +98,9 @@ div#mapa_madrid {
   float: left;
   width: 125px;
   height: 125px;
-  background: url(../images/Mapa-Madrid-mini.jpg) 0 0 no-repeat;
+  background: url(../images/mapa-madrid-mini.png) 0 0 no-repeat;
   margin-left: 10px;
-  margin-top: 25px;
+  margin-top: 40px;
 }
 
 div#mapa_madrid a {
