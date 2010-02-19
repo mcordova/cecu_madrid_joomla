@@ -40,7 +40,7 @@ img { border: 1px solid #cccccc; }
 /*** Template specific layout elements ***/
 /*****************************************/
 #page_bg {
-  padding: 10px 0;
+  padding: 2px 0;
   margin-bottom: 1px;
 }
 
@@ -77,6 +77,10 @@ div#header_r {
   padding-top: 16px;
   overflow: hidden;
   text-align: left;
+}
+
+div#header_r h1 {
+  margin: 0;
 }
 
 div#logo {
