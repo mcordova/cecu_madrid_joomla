@@ -38,9 +38,9 @@ defined( '_JEXEC' ) or die( 'Restricted access' );
          <div id="header">
             <div id="header_l">
                <div id="header_r">
-                  <div id="logo"></div>
+                  <div id="logo"><a href="/web/" title="ir a la portada">&nbsp;</a></div>
                   <jdoc:include type="modules" name="top" />
-                  <div id="mapa_madrid"><a href="/web/delegaciones.html">&nbsp;</a></div>
+                  <div id="mapa_madrid"><a href="/web/delegaciones.html" title="ir a las delegaciones">&nbsp;</a></div>
                </div>
             </div>
          </div>
