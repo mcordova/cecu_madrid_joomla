@@ -88,11 +88,12 @@ div#logo {
   left: 0;
   top: 0;
   float: left;
-  width: 160px;
+  width: 150px;
   height: 100px;
   background: url(../images/logo_cecu_madrid.png) 0 0 no-repeat;
   margin-left: 30px;
   margin-top: 35px;
+  border: 1px solid #999999;
 }
 
 div#mapa_madrid {
