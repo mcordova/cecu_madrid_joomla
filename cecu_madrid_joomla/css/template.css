@@ -96,6 +96,13 @@ div#logo {
   border: 1px solid #999999;
 }
 
+div#logo a {
+  width: 150px;
+  height: 100px;
+  display: block;
+  text-decoration: none;
+}
+
 div#mapa_madrid {
   position: absolute;
   right: 0;
