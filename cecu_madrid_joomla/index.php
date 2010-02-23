@@ -157,8 +157,8 @@ defined( '_JEXEC' ) or die( 'Restricted access' );
                   <jdoc:include type="modules" name="syndicate" />
                </p>
                <p id="power_by">
-                   &copyright; CECUMadrid. <a href="/web/aviso-legal">Aviso Legal</a> - 
-                   <a href="/web/privacidad">Pol&iacute;tica de privacidad</a> - 
+                   &copy; CECUMadrid. <a href="/web/aviso-legal.html">Aviso Legal</a> - 
+                   <a href="/web/privacidad.html">Pol&iacute;tica de privacidad</a> - 
                   <?php echo JText::_('Powered by') ?> <a href="http://www.joomla.org">Joomla!</a>.
                   <?php echo JText::_('Valid') ?> <a href="http://validator.w3.org/check/referer">XHTML</a> <?php echo JText::_('and') ?> <a href="http://jigsaw.w3.org/css-validator/check/referer">CSS</a>.
                </p>
